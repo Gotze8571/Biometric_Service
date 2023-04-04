@@ -24,7 +24,8 @@ C:\Users\DELL\source\repos\Biometric_Service\Bio_Service\obj\Debug\net5.0\static
 C:\Users\DELL\source\repos\Biometric_Service\Bio_Service\obj\Debug\net5.0\Bio_Service.RazorTargetAssemblyInfo.cache
 C:\Users\DELL\source\repos\Biometric_Service\Bio_Service\obj\Debug\net5.0\Bio_Service.csproj.CopyComplete
 C:\Users\DELL\source\repos\Biometric_Service\Bio_Service\obj\Debug\net5.0\Bio_Service.dll
-C:\Users\DELL\source\repos\Biometric_Service\Bio_Service\obj\Debug\net5.0\refint\Bio_Service.dll
 C:\Users\DELL\source\repos\Biometric_Service\Bio_Service\obj\Debug\net5.0\Bio_Service.pdb
 C:\Users\DELL\source\repos\Biometric_Service\Bio_Service\obj\Debug\net5.0\Bio_Service.genruntimeconfig.cache
 C:\Users\DELL\source\repos\Biometric_Service\Bio_Service\obj\Debug\net5.0\ref\Bio_Service.dll
+C:\Users\DELL\source\repos\Biometric_Service\Bio_Service\bin\Debug\net5.0\ref\Bio_Service.dll
+C:\Users\DELL\source\repos\Biometric_Service\Bio_Service\obj\Debug\net5.0\staticwebassets\Bio_Service.StaticWebAssets.xml
