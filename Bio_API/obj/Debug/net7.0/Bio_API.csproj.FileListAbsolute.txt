@@ -31,3 +31,5 @@ C:\Users\DELL\source\repos\Biometric_Service\Bio_API\obj\Debug\net7.0\refint\Bio
 C:\Users\DELL\source\repos\Biometric_Service\Bio_API\obj\Debug\net7.0\Bio_API.pdb
 C:\Users\DELL\source\repos\Biometric_Service\Bio_API\obj\Debug\net7.0\Bio_API.genruntimeconfig.cache
 C:\Users\DELL\source\repos\Biometric_Service\Bio_API\obj\Debug\net7.0\ref\Bio_API.dll
+C:\Users\DELL\source\repos\Biometric_Service\Bio_API\bin\Debug\net7.0\Bio_Core.dll
+C:\Users\DELL\source\repos\Biometric_Service\Bio_API\bin\Debug\net7.0\Bio_Core.pdb

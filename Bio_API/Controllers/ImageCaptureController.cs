@@ -10,9 +10,12 @@ namespace Bio_API.Controllers {
     [Authorize]
     public class ImageCaptureController : ControllerBase 
     {
+        private ILogger<ImageCaptureController> logger;
         private readonly ImageCapture _imageCapture;
-        public ImageCaptureController()
-        { 
+        public ImageCaptureController(ImageCapture _imageCapture, ILogger<ImageCaptureController> logger)
+        {
+            this._imageCapture = _imageCapture;
+            this.logger = logger;
         }
 
         public async Task<IActionResult> GetImageCaptured(string RequestId) 

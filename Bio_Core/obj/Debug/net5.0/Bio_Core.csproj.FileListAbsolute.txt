@@ -9,4 +9,4 @@ C:\Users\DELL\source\repos\Biometric_Service\Bio_Core\obj\Debug\net5.0\Bio_Core.
 C:\Users\DELL\source\repos\Biometric_Service\Bio_Core\obj\Debug\net5.0\Bio_Core.dll
 C:\Users\DELL\source\repos\Biometric_Service\Bio_Core\obj\Debug\net5.0\Bio_Core.pdb
 C:\Users\DELL\source\repos\Biometric_Service\Bio_Core\obj\Debug\net5.0\ref\Bio_Core.dll
-C:\Users\DELL\source\repos\Biometric_Service\Bio_Core\bin\Debug\net5.0\ref\Bio_Core.dll
+C:\Users\DELL\source\repos\Biometric_Service\Bio_Core\obj\Debug\net5.0\refint\Bio_Core.dll
