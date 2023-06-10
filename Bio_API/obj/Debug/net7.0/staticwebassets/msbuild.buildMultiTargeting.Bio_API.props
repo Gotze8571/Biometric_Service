@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Bio_API.props" />
+</Project>
