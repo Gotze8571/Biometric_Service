@@ -39,3 +39,5 @@ C:\Users\DELL\source\repos\Biometric_Service\BiometricBackgroundService\bin\Debu
 C:\Users\DELL\source\repos\Biometric_Service\BiometricBackgroundService\bin\Debug\net7.0\Serilog.Sinks.File.dll
 C:\Users\DELL\source\repos\Biometric_Service\BiometricBackgroundService\bin\Debug\net7.0\Serilog.Sinks.PeriodicBatching.dll
 C:\Users\DELL\source\repos\Biometric_Service\BiometricBackgroundService\bin\Debug\net7.0\Serilog.Sinks.Seq.dll
+C:\Users\DELL\source\repos\Biometric_Service\BiometricBackgroundService\bin\Debug\net7.0\Bio_Core.dll
+C:\Users\DELL\source\repos\Biometric_Service\BiometricBackgroundService\bin\Debug\net7.0\Bio_Core.pdb

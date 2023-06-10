@@ -12,5 +12,4 @@ Log.Logger = new LoggerConfiguration()
     .WriteTo.File("C:/Users/DELL/OneDrive/Documents/logs/Biometric/Biometric.txt", rollingInterval: RollingInterval.Day)
     .CreateLogger();
 
-
 host.Run();
